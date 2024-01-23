@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276244221536",
+    "project_id": "calendar-scheduler-yk",
+    "storage_bucket": "calendar-scheduler-yk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276244221536:android:3f06654621a8879f1c3d05",
+        "android_client_info": {
+          "package_name": "com.example.calendar_scheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchoibzDMva1CUfKXYn4JrYEYzOJzYrYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
